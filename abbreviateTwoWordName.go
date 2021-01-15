@@ -9,7 +9,7 @@ import (
 
 func AbbrevName(name string) string {
 	splitted := strings.Split(name, " ")
-	first := string([]rune(splitted[0])[0])
-	second := string([]rune(splitted[1])[0])
+	first := strings.ToTitle(string([]rune(splitted[0])[0]))
+	second := strings.ToTitle(string([]rune(splitted[1])[0]))
 	return fmt.Sprintf("%s.%s", first, second)
 }
