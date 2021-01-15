@@ -1,8 +1,8 @@
 # Katas from Codewars
-![](https://i.imgur.com/2LTDqtO.png)
+![](https://www.qualified.io/shared/images/codewars-black-large-24a9d355.png)
 ---
-This repository is made to store solutions for codewars katas.
-You can check them by pasting code from any file to corresponding link below 
+**This repository is made to store solutions for codewars katas.
+You can check them by pasting code from any file to corresponding link below** 
 
 ---
 [squareSum](https://www.codewars.com/kata/515e271a311df0350d00000f/train/go)
@@ -25,7 +25,7 @@ You can check them by pasting code from any file to corresponding link below
 ---
 [expressionsMatter](https://www.codewars.com/kata/5ae62fcf252e66d44d00008e/train/go)
 ---
-**[totalAmountOfPoints](https://www.codewars.com/kata/5bb904724c47249b10000131/train/go)
+[totalAmountOfPoints](https://www.codewars.com/kata/5bb904724c47249b10000131/train/go)
 ---
-**[abbreviateTwoWordName](https://www.codewars.com/kata/57eadb7ecd143f4c9c0000a3/train/go)
+[abbreviateTwoWordName](https://www.codewars.com/kata/57eadb7ecd143f4c9c0000a3/train/go)
 ---
