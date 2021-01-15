@@ -1,5 +1,3 @@
-// https://www.codewars.com/kata/57eadb7ecd143f4c9c0000a3/train/go
-
 package kata
 
 import (
@@ -7,6 +5,7 @@ import (
 	"strings"
 )
 
+// AbbrevName https://www.codewars.com/kata/57eadb7ecd143f4c9c0000a3/train/go
 func AbbrevName(name string) string {
 	splitted := strings.Split(name, " ")
 	first := strings.ToTitle(string([]rune(splitted[0])[0]))

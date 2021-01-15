@@ -1,7 +1,6 @@
-//https://www.codewars.com/kata/515e188a311df01cba000003/train/go
-
 package kata
 
+// GetPlanetName https://www.codewars.com/kata/515e188a311df01cba000003/train/go
 func GetPlanetName(ID int) string {
 	switch ID {
 	case 1:
